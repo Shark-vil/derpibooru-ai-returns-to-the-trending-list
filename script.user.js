@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Removes exceptions for -ai generated and -ai composition filters from Trending Images on Derpibooru homepage
 // @author       Shark_vil
+// @icon         https://github.com/Shark-vil/derpibooru-ai-returns-to-the-trending-list/raw/refs/heads/master/icon.png
 // @match        https://derpibooru.org/
 // @grant        none
 // ==/UserScript==
